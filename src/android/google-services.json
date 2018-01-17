@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "853201936211",
+    "firebase_url": "https://metroexit-onesignal.firebaseio.com",
+    "project_id": "metroexit-onesignal",
+    "storage_bucket": "metroexit-onesignal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853201936211:android:9e18b30afb6b1837",
+        "android_client_info": {
+          "package_name": "me.metroexit_onesignal.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853201936211-v22bj5bs0558fvlo4jhrgik26j6p35ao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw_KCGe8jpw7g38IEobWwQtoLRnfptjEU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>853201936211-v22bj5bs0558fvlo4jhrgik26j6p35ao.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.853201936211-v22bj5bs0558fvlo4jhrgik26j6p35ao</string>
+	<key>API_KEY</key>
+	<string>AAIzaSyAw_KCGe8jpw7g38IEobWwQtoLRnfptjEU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>853201936211</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>me.metroexit_onesignal.app</string>
+	<key>PROJECT_ID</key>
+	<string>metroexit-onesignal</string>
+	<key>STORAGE_BUCKET</key>
+	<string>metroexit-onesignal.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:853201936211:ios:e31d1aa5dee92da3</string>
+	<key>DATABASE_URL</key>
+	<string>https://metroexit-onesignal.firebaseio.com</string>
+</dict>
+</plist>
